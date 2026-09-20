@@ -1,4 +1,4 @@
-# QA Portfolio — [Your Name]
+# QA Portfolio — Akili Gallimore
 
 Process Improvement Engineer and ISO 9001/45001 Lead Auditor transitioning into
 software QA. I bring 4+ years of structured verification, root-cause analysis,
