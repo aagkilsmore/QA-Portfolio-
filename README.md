@@ -12,10 +12,10 @@ and CompTIA Security+, I paid particular attention to how each app handled
 invalid input and access control, not just expected happy-path behavior.
 
 ## Contents
-- [Test Plan](./01-test-plan) — formal test plan and login test cases (SauceDemo)
-- [Bug Reports](./02-bug-reports) — 3 defect tickets with repro steps and severity
-- [API Testing](./03-api-testing) — Postman-based API auth testing (reqres.in)
-- [GenAI-Assisted Testing](./04-genai-assisted-testing) — AI-generated test cases, reviewed and corrected
+- [Test Plan](./Test-Plan) — formal test plan and login test cases (SauceDemo)
+- [Bug Reports](./Bug-Reports) — 3 defect tickets with repro steps and severity
+- [API Testing](./API-Testing) — Postman-based API auth testing (reqres.in)
+- [GenAI-Assisted Testing](./Test-Case) — AI-generated test cases, reviewed and corrected
 
 ## Background
 ISO 9001/45001 Lead Auditor, MSc Cybersecurity, CompTIA Security+. Applying
