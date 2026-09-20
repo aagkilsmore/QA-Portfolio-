@@ -1,7 +1,7 @@
 # QA Portfolio — Akili Gallimore
 
 Process Improvement Engineer and ISO 9001/45001 Lead Auditor transitioning into
-software QA. I bring 4+ years of structured verification, root-cause analysis,
+software QA. I bring 7+ years of structured verification, root-cause analysis,
 and audit-based quality control from process safety and operations — this repo
 documents that discipline applied to software.
 
@@ -18,7 +18,7 @@ invalid input and access control, not just expected happy-path behavior.
 - [GenAI-Assisted Testing](./Test-Case) — AI-generated test cases, reviewed and corrected
 
 ## Background
-ISO 9001/45001 Lead Auditor, MSc Cybersecurity, CompTIA Security+. Applying
+ISO 9001/45001 Lead Auditor,BEng in Industrial Systems, MSc Cybersecurity, CompTIA Security+. Applying
 structured verification and root-cause analysis from process auditing to
 software quality assurance.
 
